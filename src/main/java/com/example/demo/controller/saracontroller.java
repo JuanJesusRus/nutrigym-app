@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class saracontroller {
     @GetMapping("/sara")
     public String inicio(){
-        return "soy sara y esta es mi rama";
+        return "soy sarita y este es mi primer controlador";
     }
 }

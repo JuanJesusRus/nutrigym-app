@@ -8,6 +8,6 @@ public class JesusController {
     
      @GetMapping("/jesus")
     public String saludo() {
-        return "Hola, soy Jesús y este es mi controlador";
+        return "Hola, somos el Grupo E y queremos saludar a la clase";
     }
 }
